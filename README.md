@@ -1,1 +1,1 @@
-This is a test program to begin my own app!!
+This is a test program to learn github!!
